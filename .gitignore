@@ -1,0 +1,12 @@
+# Ignore all #
+src/*/*
+
+# Unignore all with extensions #
+!src/*/*.*
+
+# Unignore all dirs #
+!src/*/*/
+
+# Ignore .class #
+src/*/*.class
+
